@@ -17,7 +17,7 @@
         "maxAttempts": 5,
         "messages": [
             {
-                "content": "Can try you saying that again",
+                "content": "Can you try saying that again",
                 "contentType": "PlainText"
             }
         ]
